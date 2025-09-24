@@ -94,20 +94,26 @@ gap:35px;
 .margin_topp{
     margin-top: 15px;
 }
+.margin{
+    margin: 10px 46px;
+}
 .padding15{
     padding: 15px;
 }
 .padding5{
     padding: 5px;
+    
+}
+.section_padding{
+    padding-top:20px ;
+    padding-bottom: 20px;
 }
 /*color*/
 .link_color{
     color: #0D0E43;
     
 }
-.margin{
-    margin: 10px 46px;
-}
+
 .color_blu{
     color:#151875;
     

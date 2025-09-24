@@ -36,3 +36,23 @@
 }
   
  }
+  .footer {
+background-color: #EEEFFB;
+padding: 30px;
+   }
+   
+   .footer input::placeholder{
+    color:#8A8FB9 ;
+   }
+ 
+ .footer button{
+  color: white;
+  padding: 10px 40px;
+  border-radius: 3px;
+ }
+ .footer.left_side{
+  align-items: f;
+ }
+ .footer a{
+  color: #8A8FB9;
+ }
