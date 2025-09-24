@@ -1,0 +1,38 @@
+.header{
+   padding: 30px 0;
+   position: sticky;
+   top: 0;
+   
+ }
+ .bar{
+  display: none;
+ }
+
+.form_border{
+    border: 2px solid #E7E6EF;
+     border-radius: 4px;
+     display: flex;
+     height: 40px;
+}
+ 
+.form_border input{
+   padding-left: 10px;
+
+   
+
+ }
+ .form_border button{
+ background-color: var(--mainColor);
+ padding: 0 15px;
+ cursor: pointer;
+
+ }
+ @media screen and (max-width:1200px) {
+.list,.search{
+  display: none;
+}
+.bar{
+  display: block;
+}
+  
+ }
