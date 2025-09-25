@@ -95,6 +95,44 @@ transform: translateY(0);
 
 
 
+.featured_product .row{
+   gap: 15px;
+}
+  .product{
+      box-shadow: 0 4px 4px 0 #00000040;
+      width: calc((100% - 45px) / 4); 
+      border:1px solid #E7E6EF;
+      transition: background-color .8s;
+   }
+   .product .img{
+   background-color: #F6F7FB;
+   padding:46px 52px 12px 40px;
+   border-radius: 5px;
+  height: 250px;
+}
+.product .btn{
+  background-color: #08D15F;
+  padding: 8px 13px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+.product:hover{
+  background-color: #2F1AC4;
+  color: white;
+}
+
+
+
+ .Leatest_Products .row{
+   gap:15px;
+}
+.trending_product .row{
+   gap:15px;
+}
+
+
+
 
 
 
