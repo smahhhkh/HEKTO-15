@@ -30,7 +30,7 @@ li{
 
 .d_flex{
     display: flex;
-    flex-wrap: wrap;
+   
    
 }
 .space_between{
@@ -105,8 +105,8 @@ gap:35px;
     
 }
 .section_padding{
-    padding-top:40px ;
-    padding-bottom: 40px;
+    padding-top:60px ;
+    padding-bottom: 60px;
 }
 /*color*/
 .link_color{
